@@ -134,7 +134,7 @@ To work with the WiEP repo, use this [GitHub guide](./3-github-guide.md#contribu
 - Check for updates from the upstream main:
 
   ```bash
-  git fetch upstream/main
+  git fetch upstream main
   ```
 
 - Merge the updates if there are any:
